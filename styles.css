@@ -1,0 +1,35 @@
+body {
+    text-align: center !important;
+    background-color: #ffb6b9!important;
+  }
+  
+  textarea {
+    background-color: #fae3d9 !important;
+    margin: 0 auto !important;
+  }
+  
+  .box {
+    display: inline-block;
+    outline: none !important;
+  }
+  
+  .btn {
+    display: inline-block;
+    margin:  1.5rem 1rem !important;
+    width: 33%;
+  }
+
+
+.btn-reset {
+
+    margin-top: 0 !important;
+
+  }
+
+  
+  
+  
+  .r-to-l {
+    text-align: right;
+  }
+  
